@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.LoginForm.resources
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.Properties.Resources.resources
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\bin\Debug\KasirHotel.exe
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\bin\Debug\KasirHotel.pdb
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.exe
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.pdb
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.MainForm.resources
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.CheckInForm.resources
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.CheckOutForm.resources
+\\vmware-host\Shared Folders\Shared\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.ManageReservationForm.resources
