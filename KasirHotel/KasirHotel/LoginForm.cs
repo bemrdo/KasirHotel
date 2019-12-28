@@ -17,7 +17,7 @@ namespace KasirHotel
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void buttonLogin_Click(object sender, EventArgs e)
         {
             CONNECT conn = new CONNECT();
             DataTable table = new DataTable();
@@ -68,3 +68,5 @@ namespace KasirHotel
         }
     }
 }
+
+// DONE
