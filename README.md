@@ -1,7 +1,7 @@
 # KasirHotel
 For Visual Programming Project Exam
 
-Requirements :
+Requirements and Steps :
 1. Install Visual Studio 2010
 2. Install XAMPP 7.1.33
 3. Install Connector XAMPP for Visual Studio 2010
