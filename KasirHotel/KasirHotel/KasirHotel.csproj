@@ -104,6 +104,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -114,6 +115,39 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pass icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\103019-OMI574-201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg checkin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg checkin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg checkout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg checkout1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg reservation.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

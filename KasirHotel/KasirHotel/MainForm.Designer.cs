@@ -38,6 +38,7 @@
             // 
             // menuStrip1
             // 
+            this.menuStrip1.BackColor = System.Drawing.Color.Black;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.cHECKINToolStripMenuItem,
             this.cHECKOUTToolStripMenuItem,
@@ -51,29 +52,37 @@
             // 
             // cHECKINToolStripMenuItem
             // 
+            this.cHECKINToolStripMenuItem.Font = new System.Drawing.Font("NCAA Baylor Bears Football", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cHECKINToolStripMenuItem.ForeColor = System.Drawing.Color.Gold;
             this.cHECKINToolStripMenuItem.Name = "cHECKINToolStripMenuItem";
-            this.cHECKINToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
+            this.cHECKINToolStripMenuItem.Size = new System.Drawing.Size(85, 20);
             this.cHECKINToolStripMenuItem.Text = "CHECK IN";
             this.cHECKINToolStripMenuItem.Click += new System.EventHandler(this.cHECKINToolStripMenuItem_Click);
             // 
             // cHECKOUTToolStripMenuItem
             // 
+            this.cHECKOUTToolStripMenuItem.Font = new System.Drawing.Font("NCAA Baylor Bears Football", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cHECKOUTToolStripMenuItem.ForeColor = System.Drawing.Color.Gold;
             this.cHECKOUTToolStripMenuItem.Name = "cHECKOUTToolStripMenuItem";
-            this.cHECKOUTToolStripMenuItem.Size = new System.Drawing.Size(83, 20);
+            this.cHECKOUTToolStripMenuItem.Size = new System.Drawing.Size(98, 20);
             this.cHECKOUTToolStripMenuItem.Text = "CHECK OUT";
             this.cHECKOUTToolStripMenuItem.Click += new System.EventHandler(this.cHECKOUTToolStripMenuItem_Click);
             // 
             // mANAGERESERVATIONToolStripMenuItem
             // 
+            this.mANAGERESERVATIONToolStripMenuItem.Font = new System.Drawing.Font("NCAA Baylor Bears Football", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.mANAGERESERVATIONToolStripMenuItem.ForeColor = System.Drawing.Color.Gold;
             this.mANAGERESERVATIONToolStripMenuItem.Name = "mANAGERESERVATIONToolStripMenuItem";
-            this.mANAGERESERVATIONToolStripMenuItem.Size = new System.Drawing.Size(144, 20);
+            this.mANAGERESERVATIONToolStripMenuItem.Size = new System.Drawing.Size(191, 20);
             this.mANAGERESERVATIONToolStripMenuItem.Text = "MANAGE RESERVATION";
             this.mANAGERESERVATIONToolStripMenuItem.Click += new System.EventHandler(this.mANAGERESERVATIONToolStripMenuItem_Click);
             // 
             // lOGOUTToolStripMenuItem
             // 
+            this.lOGOUTToolStripMenuItem.Font = new System.Drawing.Font("NCAA Baylor Bears Football", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lOGOUTToolStripMenuItem.ForeColor = System.Drawing.Color.Gold;
             this.lOGOUTToolStripMenuItem.Name = "lOGOUTToolStripMenuItem";
-            this.lOGOUTToolStripMenuItem.Size = new System.Drawing.Size(65, 20);
+            this.lOGOUTToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
             this.lOGOUTToolStripMenuItem.Text = "LOGOUT";
             this.lOGOUTToolStripMenuItem.Click += new System.EventHandler(this.lOGOUTToolStripMenuItem_Click);
             // 

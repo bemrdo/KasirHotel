@@ -22,3 +22,15 @@ C:\Users\bemrdo\Documents\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\
 C:\Users\bemrdo\Documents\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.csproj.GenerateResource.Cache
 C:\Users\bemrdo\Documents\KasirHotel-master\KasirHotel\KasirHotel\bin\Debug\KasirHotel.exe
 C:\Users\bemrdo\Documents\KasirHotel-master\KasirHotel\KasirHotel\bin\Debug\KasirHotel.pdb
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.exe
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.pdb
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\bin\Debug\KasirHotel.exe
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\bin\Debug\KasirHotel.pdb
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.csprojResolveAssemblyReference.cache
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.CheckInForm.resources
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.CheckOutForm.resources
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.LoginForm.resources
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.MainForm.resources
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.ManageReservationForm.resources
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.Properties.Resources.resources
+G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.csproj.GenerateResource.Cache
