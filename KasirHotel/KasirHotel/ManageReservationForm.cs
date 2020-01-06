@@ -301,6 +301,12 @@ namespace KasirHotel
         {
             dataGridView1.DataSource = rsv.getfinishedRsv();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            PrintReport frm2 = new PrintReport();
+            frm2.Show();
+        }
     }
 }
 

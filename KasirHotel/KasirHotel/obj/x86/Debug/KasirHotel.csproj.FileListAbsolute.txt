@@ -34,3 +34,17 @@ G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\Ka
 G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.ManageReservationForm.resources
 G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.Properties.Resources.resources
 G:\Downloads\Compressed\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.csproj.GenerateResource.Cache
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.exe
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.pdb
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\bin\Debug\KasirHotel.exe
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\bin\Debug\KasirHotel.pdb
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.csprojResolveAssemblyReference.cache
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.CheckInForm.resources
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.CheckOutForm.resources
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.LoginForm.resources
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.MainForm.resources
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.ManageReservationForm.resources
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.Properties.Resources.resources
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.csproj.GenerateResource.Cache
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\bin\Debug\KasirHotel.exe.config
+D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.PrintReport.resources

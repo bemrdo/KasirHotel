@@ -113,7 +113,7 @@
             this.buttonClear.BackgroundImage = global::KasirHotel.Properties.Resources.button_login;
             this.buttonClear.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.buttonClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonClear.Font = new System.Drawing.Font("NCAA Baylor Bears Football", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonClear.Location = new System.Drawing.Point(304, 312);
             this.buttonClear.Name = "buttonClear";
             this.buttonClear.Size = new System.Drawing.Size(100, 40);
@@ -128,7 +128,7 @@
             this.buttonSubmit.BackgroundImage = global::KasirHotel.Properties.Resources.button_login;
             this.buttonSubmit.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.buttonSubmit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonSubmit.Font = new System.Drawing.Font("NCAA Baylor Bears Football", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonSubmit.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSubmit.Location = new System.Drawing.Point(184, 312);
             this.buttonSubmit.Name = "buttonSubmit";
             this.buttonSubmit.Size = new System.Drawing.Size(100, 40);
