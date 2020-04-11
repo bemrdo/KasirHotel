@@ -48,3 +48,18 @@ D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\
 D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.csproj.GenerateResource.Cache
 D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\bin\Debug\KasirHotel.exe.config
 D:\Ryan File\Kuliah Semester 5\Pemrogaraman Visual\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.PrintReport.resources
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\bin\Debug\KasirHotel.exe.config
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.exe
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.pdb
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\bin\Debug\KasirHotel.exe
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\bin\Debug\KasirHotel.pdb
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.csprojResolveAssemblyReference.cache
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.CheckInForm.resources
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.CheckOutForm.resources
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.LoginForm.resources
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.MainForm.resources
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.ManageReservationForm.resources
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.PrintReport.resources
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.Properties.Resources.resources
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.csproj.GenerateResource.Cache
+C:\Users\bemrdo\Desktop\KasirHotel-master\KasirHotel\KasirHotel\obj\x86\Debug\KasirHotel.PrintSelection.resources

@@ -305,7 +305,7 @@ namespace KasirHotel
         private void button1_Click(object sender, EventArgs e)
         {
             PrintReport frm2 = new PrintReport();
-            frm2.Show();
+            frm2.ShowDialog();
         }
     }
 }

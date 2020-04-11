@@ -53,11 +53,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Baskerville Old Face", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Gold;
             this.label1.Location = new System.Drawing.Point(202, 31);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(113, 23);
+            this.label1.Size = new System.Drawing.Size(115, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "CHECK IN";
             // 
@@ -118,7 +118,8 @@
             // 
             // dateTimeCheckin
             // 
-            this.dateTimeCheckin.CustomFormat = "";
+            this.dateTimeCheckin.CustomFormat = "dd MMMM yyyy";
+            this.dateTimeCheckin.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimeCheckin.Location = new System.Drawing.Point(101, 187);
             this.dateTimeCheckin.Name = "dateTimeCheckin";
             this.dateTimeCheckin.Size = new System.Drawing.Size(145, 20);
@@ -198,6 +199,8 @@
             // 
             // dateTimeCheckout
             // 
+            this.dateTimeCheckout.CustomFormat = "dd MMMM yyyy";
+            this.dateTimeCheckout.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimeCheckout.Location = new System.Drawing.Point(101, 235);
             this.dateTimeCheckout.Name = "dateTimeCheckout";
             this.dateTimeCheckout.Size = new System.Drawing.Size(145, 20);

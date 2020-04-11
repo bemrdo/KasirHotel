@@ -68,11 +68,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Baskerville Old Face", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Gold;
             this.label1.Location = new System.Drawing.Point(472, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(230, 31);
+            this.label1.Size = new System.Drawing.Size(240, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "RESERVATIONS";
             // 
@@ -183,6 +183,8 @@
             // 
             // dateTimeCheckin
             // 
+            this.dateTimeCheckin.CustomFormat = "dd MMMM yyyy";
+            this.dateTimeCheckin.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimeCheckin.Location = new System.Drawing.Point(93, 212);
             this.dateTimeCheckin.Name = "dateTimeCheckin";
             this.dateTimeCheckin.Size = new System.Drawing.Size(141, 20);
@@ -191,6 +193,8 @@
             // 
             // dateTimeCheckout
             // 
+            this.dateTimeCheckout.CustomFormat = "dd MMMM yyyy";
+            this.dateTimeCheckout.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimeCheckout.Location = new System.Drawing.Point(93, 238);
             this.dateTimeCheckout.Name = "dateTimeCheckout";
             this.dateTimeCheckout.Size = new System.Drawing.Size(141, 20);
@@ -270,7 +274,7 @@
             this.buttonSearch.BackgroundImage = global::KasirHotel.Properties.Resources.button_login;
             this.buttonSearch.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.buttonSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonSearch.Font = new System.Drawing.Font("Baskerville Old Face", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSearch.Location = new System.Drawing.Point(159, 79);
             this.buttonSearch.Name = "buttonSearch";
             this.buttonSearch.Size = new System.Drawing.Size(75, 23);
@@ -404,11 +408,12 @@
             // 
             this.button1.BackColor = System.Drawing.Color.Transparent;
             this.button1.BackgroundImage = global::KasirHotel.Properties.Resources.button_login;
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(65, 526);
+            this.button1.Location = new System.Drawing.Point(25, 526);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(136, 40);
+            this.button1.Size = new System.Drawing.Size(209, 40);
             this.button1.TabIndex = 62;
             this.button1.Text = "PRINT REPORT";
             this.button1.UseVisualStyleBackColor = false;

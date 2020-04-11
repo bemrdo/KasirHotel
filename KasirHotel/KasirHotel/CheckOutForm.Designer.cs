@@ -98,7 +98,7 @@
             this.buttonSearch.BackgroundImage = global::KasirHotel.Properties.Resources.button_login;
             this.buttonSearch.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.buttonSearch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonSearch.Font = new System.Drawing.Font("Baskerville Old Face", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSearch.Location = new System.Drawing.Point(184, 87);
             this.buttonSearch.Name = "buttonSearch";
             this.buttonSearch.Size = new System.Drawing.Size(75, 23);
@@ -139,6 +139,8 @@
             // 
             // dateTimeCheckout
             // 
+            this.dateTimeCheckout.CustomFormat = "dd MMMM yyyy";
+            this.dateTimeCheckout.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimeCheckout.Location = new System.Drawing.Point(398, 210);
             this.dateTimeCheckout.Name = "dateTimeCheckout";
             this.dateTimeCheckout.Size = new System.Drawing.Size(141, 20);
@@ -147,7 +149,9 @@
             // 
             // dateTimeCheckin
             // 
+            this.dateTimeCheckin.CustomFormat = "dd MMMM yyyy";
             this.dateTimeCheckin.Enabled = false;
+            this.dateTimeCheckin.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimeCheckin.Location = new System.Drawing.Point(118, 210);
             this.dateTimeCheckin.Name = "dateTimeCheckin";
             this.dateTimeCheckin.Size = new System.Drawing.Size(141, 20);
@@ -266,11 +270,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Baskerville Old Face", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Gold;
             this.label1.Location = new System.Drawing.Point(233, 33);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(137, 23);
+            this.label1.Size = new System.Drawing.Size(140, 25);
             this.label1.TabIndex = 58;
             this.label1.Text = "CHECK OUT";
             // 
